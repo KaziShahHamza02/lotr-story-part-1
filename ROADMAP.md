@@ -38,7 +38,7 @@ Part II continues directly from Episode 7, following Mara and Fen north from the
 
 | Episode | Working title | Status | Goal |
 |---|---|---|---|
-| 8 | The Green Banners | Planned | Make contact with the northern marchers and learn why they answered the Stone Hearth. |
+| 8 | The Green Banners | Complete | Make contact with the northern marchers and learn why they answered the Stone Hearth. |
 | 9 | The Token on the Stone | Planned | Reconnect with Calder’s trail and uncover the Keepers’ deeper history. |
 | 10 | Ashes of Vale Hollow | Planned | Reveal the fate of Elder Tomren and Vale Hollow after the beacon night. |
 | 11 | The Western Horn | Planned | Confront the unidentified western force and test where their loyalties lie. |

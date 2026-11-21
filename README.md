@@ -16,6 +16,10 @@ Episodes will be added to the `episodes/` directory as they are drafted and revi
 6. [Episode 6 — The Hill of Crows](episodes/episode-06-the-hill-of-crows.md) — Complete
 7. [Episode 7 — The Oath at Dawn](episodes/episode-07-the-oath-at-dawn.md) — Complete
 
+### Part II: Beyond the Stone Hearth
+
+8. [Episode 8 — The Green Banners](episodes/episode-08-the-green-banners.md) — Complete
+
 ## Project files
 
 - [`AGENTS.md`](AGENTS.md) — entry point for agent instructions.
