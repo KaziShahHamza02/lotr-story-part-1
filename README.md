@@ -19,6 +19,9 @@ Episodes will be added to the `episodes/` directory as they are drafted and revi
 ### Part II: Beyond the Stone Hearth
 
 8. [Episode 8 — The Green Banners](episodes/episode-08-the-green-banners.md) — Complete
+9. [Episode 9 — The Token on the Stone](episodes/episode-09-the-token-on-the-stone.md) — Complete
+10. [Episode 10 — Ashes of Vale Hollow](episodes/episode-10-ashes-of-vale-hollow.md) — Complete
+11. [Episode 11 — The Western Horn](episodes/episode-11-the-western-horn.md) — Complete
 
 ## Project files
 

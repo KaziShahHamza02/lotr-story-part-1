@@ -1,66 +1,71 @@
-# Continuity & World-Building Notes (Part I)
+# Continuity & World-Building Notes (Part I–II)
 
-Reference sheet for established canon across Episodes 1–4. Keep this updated whenever new episodes introduce or resolve story facts, and avoid treating unresolved questions as settled canon.
+Reference sheet for established canon across Episodes 1–11. Keep this updated whenever new episodes introduce or resolve story facts, and avoid treating unresolved questions as settled canon.
+
+---
+
+## Opening Arc Review (Episodes 1–3)
+
+- **Word counts (story only):** Ep. 1 (`683`), Ep. 2 (`471`), Ep. 3 (`742`) — all within the 1,000-word limit.
+- **POV & tense:** Consistent 3rd-person limited (Mara Vale) and past tense throughout.
+- **Pacing & originality:** Clean escalation from Vale Hollow (beacon + arrival of riders) → storm ravine culvert → misty ford (hidden pursuit + Calder's introduction); original characters, emblems, and prose.
 
 ---
 
 ## Characters
 
-| Name | Role / Affiliation | Established Details | Current Status (after Ep. 4) |
+| Name | Role / Affiliation | Established Details | Current Status (after Ep. 11) |
 |---|---|---|---|
-| **Mara Vale** | Young mapmaker from Vale Hollow | Protagonist. Found the watchtower ember, carries the brass map needle wrapped in her scarf, and leads the group north. | With Fen and Calder, leaving the sunken road-vault for one of the three northern branches. |
-| **Fen Vale** | Mara's younger brother | Protected the brass needle before leaving Vale Hollow; caught it in the flooded culvert. | Traveling with Mara and Calder. |
-| **Elder Tomren** | Village elder of Vale Hollow | Armed himself with the village axe and rallied villagers at the storehouses when the riders arrived. | Remained in Vale Hollow; fate after Episode 1 unconfirmed. |
-| **Scarred Rider Captain** | Leader of the eastern riders | Face crossed with pale scars; rides a pale horse. Demanded the ember carried by Mara Vale; visibly shaken when the brass needle turned north. | Current whereabouts unconfirmed after Episode 1. |
-| **Calder** | Guarded traveler at the northern ford | Lean, carries an unstrung ash bow, an unlit tin lantern, and a copper token (circle and three cuts). Claims his father kept the northern crossings before the road was closed. | Guiding Mara and Fen north from the road-vault. |
-| **Unnamed Woman (Vision)** | Unknown | Heard in Mara's Episode 1 ember vision from a black-glass tower on a frozen plain; knew Mara's name. | Unresolved mystery. |
+| **Mara Vale** | Young mapmaker from Vale Hollow | Protagonist. Found the watchtower ember, carries the brass map needle wrapped in her scarf, and ignited the Stone Hearth. | Crossing the Glass Plain with Fen, Calder, Bram, Lira's wardens, and Orin's riders. |
+| **Fen Vale** | Mara's younger brother | Caught the brass needle in the culvert; tripped a rider at the Stone Hearth so Mara could light the tripod. | Traveling with Mara. |
+| **Elder Tomren** | Village elder of Vale Hollow | Held the storehouses with the village axe until Marshal Orin's River Wardens drove out the eastern riders; sent Bram north with a warning note. | Alive in Vale Hollow. |
+| **Bram** | Mill boy from Vale Hollow | Rode a bay pony up the shepherd trails to deliver Elder Tomren's note and news of Vale Hollow. | Traveling with the company's rear guard. |
+| **Scarred Rider Captain** | Leader of the eastern riders | Tried to choke the Stone Hearth with pitch and salt-iron; retreated after Mara ignited the tripod. | At large; his masters are massing 50+ riders near the black-glass tower. |
+| **Calder** | Son of a northern crossing keeper | Separated at the three-sided milestone to draw riders into the marsh; recovered a cracked Keeper's slate from the ford lockbox and rejoined the company at the pass. | Traveling with Mara and Lira's company. |
+| **Warden Lira** | Leader of the green-bannered relief watch | Leads 20 wardens of the Winter Gate in grey wool with iron-shod ash staves and pine-green banners (silver circle). Sister to Halea. | Leading the march across the Glass Plain (5 wardens hold the Stone Hearth). |
+| **Halea** | Keeper of the inner watch | Warden Lira's sister; kept the inner watch at the black-glass tower until cut off by eastern riders last autumn. Her voice spoke Mara's name in the Ep. 1 ember vision. | Believed holding the glass gate alone. |
+| **Marshal Orin** | Leader of the River Wardens | Commands 30 horsemen in grey wool with iron-rimmed shields and river-bend/star brass discs. Drove eastern riders out of Vale Hollow and joined Mara's company on the ice. | Escorting the company across the Glass Plain. |
 
 ---
 
 ## Locations & Landmarks
 
-- **Vale Hollow** *(Ep. 1)*: Mara and Fen's home village, with barley/wheat fields, storehouses, an empty well (which rang like a bell as Mara and Fen left), an abandoned mill, and a northern watchtower.
-- **Northern Watchtower** *(Ep. 1–2)*: Disused for twenty years; holds an iron brazier and watchtower ledger. Its white beacon lit itself and remains visible from miles north.
-- **The Old Northern Road** *(Ep. 1–4)*: A disused route marked by low stone posts carved with a **circle above three short cuts**.
-- **The Flooded Ravine & Culvert** *(Ep. 2)*: A storm-swollen ravine where stepping stones were submerged. Mara and Fen escaped through a moss-covered stone arch and sluice culvert; the surging flood disrupted pursuing scouts behind them.
-- **The Northern Ford & Submerged Weir** *(Ep. 3–4)*: A mist-covered river crossing north of the pines, watched on the far bank by stationary riders. Half a mile downstream lies a waist-deep submerged weir where Mara, Fen, and Calder crossed undetected.
-- **The Sunken Road-Vault ("Dry Cellar")** *(Ep. 4)*: An ivy-hidden vaulted chamber in a limestone bluff north of the ford, containing three stone alcoves marked with the circle-and-three-cuts emblem and a hidden carved map.
-- **The Stone Hearth & Black-Glass Tower** *(Ep. 1, 4)*:
-  - *Vision (Ep. 1):* A tower of black glass on a frozen plain where snow falls upward and figures march with green banners.
-  - *Carved Map (Ep. 4):* Shows three northern branches converging near a jagged ridge and a square symbol ("the Stone Hearth"), accompanied by a spire etching resembling the black-glass tower.
+- **Vale Hollow** *(Ep. 1, 10)*: Mara and Fen's home village. Survived the beacon night after River Wardens drove out the eastern garrison; the watchtower roof collapsed when the white fire cooled, and the well stopped ringing.
+- **The Old Northern Road & Flooded Ravine** *(Ep. 1–2)*: Marked by stone posts with a **circle above three short cuts**.
+- **The Northern Ford, Submerged Weir & Sunken Road-Vault** *(Ep. 3–4)*: Mist-covered crossing, downstream weir, and bluff chamber ("dry cellar") containing a carved map and inscription pointing to the Stone Hearth.
+- **The Three-Sided Milestone & Hill of Crows** *(Ep. 5–6)*: Three-way fork beneath the ridge (western marsh lane, guarded central stair, eastern scree to the cairn-crowned Hill of Crows).
+- **The Stone Hearth** *(Ep. 6–8)*: Sunken ring of carved pillars and granite slab with a tall iron tripod. Ignited with heatless white fire when Mara threw the brass needle into its bowl; now held by five of Lira's wardens.
+- **The Glass Plain & Black-Glass Tower** *(Ep. 1, 8–11)*: Flat, frozen plain beyond the northern pass leading to the black-glass spire—revealed by Calder's slate to be **"the glass gate,"** a lock held shut by three keys.
 
 ---
 
 ## Factions & Groups
 
-- **The Eastern Riders ("Red Lances")**: Wear dull armor, carry hooked lances with red pennants, and use red lanterns when searching at night. Capable of tracking the brass needle's faint glow when the watchtower beacon is active, and already had watchers stationed ahead at the northern ford.
-- **The Western Horn Force**: Unidentified riders/group whose horn sounded from the western road in Episode 1; relationship to the eastern riders not yet confirmed.
-- **Keepers of the Northern Crossings**: Former wardens of the northern road (including Calder's father), associated with the circle-and-three-cuts emblem and copper ferryman tokens.
+- **The Eastern Riders ("Red Lances")**: Wear dull armor and carry hooked lances with red pennants; over fifty are converging on the black-glass tower from the east.
+- **The Green-Bannered Wardens (Winter Gate)**: Twenty foot-wardens led by Warden Lira under pine-green banners with a silver circle; tasked with relieving the glass gate once the Stone Hearth burns white.
+- **The River Wardens (Western Horn Force)**: Thirty mounted border-men led by Marshal Orin in grey wool with iron-rimmed shields; bound by old standing orders to answer northern beacons.
 
 ---
 
 ## Key Objects & Signs
 
-- **The Ember**: Found pulsing beneath ash in the watchtower brazier; floated to Mara's face and projected a cold memory/vision rather than heat before winking out.
-- **The Brass Map Needle**: Belonged to Mara's unfinished map. Pulls north, glows blue-white or pale amber in response to the beacon and ancient stonework, and can be seen through damp cloth unless tightly wrapped.
-- **Circle-and-Three-Cuts Mark**: Carved on northern road boundary posts, stamped on Calder's copper token, and chiseled above the three alcoves in the sunken road-vault (matching the three northern road branches).
-- **Road-Vault Inscription** *(Ep. 4)*: *"Three gates keep the winter road. When the first lamp wakes, carry the needle to the Stone Hearth before the red lances close the way."*
+- **The Brass Map Needle**: Pulls north, glows blue-white or pale gold, woke the road-vault map, and ignited the Stone Hearth tripod. According to the Keeper's slate, it must be returned to Halea's hand before winter unmakes the seal.
+- **Calder's Copper Token**: Circle and three cuts; opened the ferryman's lockbox and left on the Stone Hearth threshold as a signal.
+- **The Keeper's Slate** *(Ep. 9)*: Cracked stone plaque bound in copper wire: *"Three branches feed the northern hearth; three keys hold the glass gate shut. Should the red lances break the plain, return the brass needle to Halea's hand before winter unmakes the seal."*
 
 ---
 
-## Timeline (Part I)
+## Timeline (Episodes 1–11)
 
-1. **Night 1 — Midsummer Eve (Ep. 1):** Mara inspects the northern watchtower, sees the ember's vision, and returns to Vale Hollow. The beacon lights itself; eastern riders arrive and western horns sound. Mara and Fen flee north.
-2. **Night 1 / Dusk into Storm (Ep. 2):** Rain hits the northern path. Pursued by scouts with red lanterns, Mara and Fen crawl through an ancient sluice culvert as the flood surges behind them. A second horn sounds ahead beyond the pines.
-3. **Pre-Dawn, Day 2 (Ep. 3):** At the misty river ford, Mara and Fen meet Calder and spot watchers waiting on the far bank. A pursuer closes in on the pine ridge; they slip downstream toward the submerged weir.
-4. **Dawn, Day 2 (Ep. 4):** They cross the weir and shelter in the sunken road-vault. The brass needle wakes a harmonic hum in the stone and reveals the carved map. Riders begin searching the riverbank below, forcing them onto the ridge road.
+1. **Night 1 (Ep. 1–2):** Watchtower beacon lights itself; eastern riders arrive and western horns sound. Mara and Fen flee north and escape scouts through a flooded culvert.
+2. **Pre-Dawn to Dawn, Day 2 (Ep. 3–5):** They meet Calder at the ford, cross the weir, uncover the road-vault map, and split at the three-sided milestone when Calder draws riders into the marsh.
+3. **Dawn to Morning, Day 2 (Ep. 6–8):** Mara and Fen reach the Hill of Crows, ignite the Stone Hearth tripod to scatter the scarred captain, leave Calder's token, and meet Warden Lira's green-bannered company in the pass.
+4. **Midday, Day 2 (Ep. 9–11):** Calder rejoins at the pass with the Keeper's slate; Bram arrives with Elder Tomren's note; Marshal Orin's River Wardens overtake them on the ice and unite with the company to cross the Glass Plain.
 
 ---
 
-## Open Threads (for Episodes 5–7)
+## Open Threads (for Episodes 12–14)
 
-- What happened to Elder Tomren and Vale Hollow after Mara and Fen left?
-- Who sounded the western horn in Episode 1, and who are the marchers with green banners from the ember vision?
-- Why does the unnamed woman in the black-glass tower know Mara's name?
-- Which of the three northern branches will the company take, and what awaits at the Stone Hearth?
-- Can Calder be fully trusted, and what else does he know about the winter road?
+- Who commands the fifty-plus eastern riders gathering at the black-glass tower?
+- What is behind the glass gate, and why does Halea know Mara's name?
+- How do the three keys (watchtower, Stone Hearth, glass tower) hold the seal shut?
